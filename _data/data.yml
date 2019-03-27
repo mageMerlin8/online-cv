@@ -97,7 +97,7 @@ experiences:
           - Bullet point
 
 projects:
-    title: Projects
+    title: Proyectos
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -145,23 +145,28 @@ publications:
         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Lenguajes de Programación 2
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
 
-      - name: Angular
-        level: 98%
+skills:
+    title: Lenguajes de Programación
 
-      - name: HTML5 & CSS
-        level: 95%
+    toolset:
+      - name: Python
+        level: 90%
+
+      - name: Java
+        level: 80%
 
       - name: Ruby on Rails
-        level: 85%
+        level: 70%
+
+      - name: HTML5 & CSS
+        level: 50%
 
       - name: Sketch & Photoshop
         level: 60%
