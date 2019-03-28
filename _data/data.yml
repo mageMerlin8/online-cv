@@ -34,6 +34,7 @@ sidebar:
       - item: Inteligencia Artifical y Aprendizaje de Máquina
         link:
       - item: Aplicaciones de recolección y análisis de datos
+      - item: Modelado matemático
 
 
 career-profile:
@@ -159,6 +160,9 @@ skills:
         level: 90%
 
       - name: Java
+        level: 80%
+
+      - name: SQL / MySQL
         level: 80%
 
       - name: Ruby on Rails
