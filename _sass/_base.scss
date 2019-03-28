@@ -16,6 +16,7 @@ h1, h2, h3, h4, h5, h6  {
 a {
     color: darken($theme-color, 15%);
     &:hover {
+
         text-decoration: underline;
         color: darken($theme-color, 30%);
     }
@@ -157,6 +158,9 @@ p {
     background: #fff;
     padding: 60px;
     padding-right: 340px;
+    a {
+        color: $text-grey;
+    }
     .section-title {
         text-transform: uppercase;
         font-size: 20px;

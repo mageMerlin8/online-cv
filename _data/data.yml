@@ -30,9 +30,11 @@ sidebar:
       - idiom: Inglés
         level: Profesional
 
-    # interests:
-    #   - item:
-    #     link:
+    interests:
+      - item: Inteligencia Artifical y Aprendizaje de Máquina
+        link:
+      - item: Aplicaciones de recolección y análisis de datos
+
 
 career-profile:
     title: Persona
@@ -41,11 +43,13 @@ career-profile:
 education:
     - degree: Ingeniería en Computación
       university: ITAM
+      url: https://computacion.itam.mx/
       time: 2017 - Ahora (Estudios en curso)
       details: |
         El programa académico de Ingeniería en Computación del ITAM se distingue de otros similares porque tiene un programa equilibrado en cuanto a las materias de software y hardware; en él se reflejan anticipadamente aquellas tendencias tecnológicas que se van perfilando como fundamento en el desarrollo de sistemas computacionales.
     - degree: Matemáticas Aplicadas
       university: ITAM
+      url: https://matematicas.itam.mx/
       time: 2017 - Ahora (Estudios en curso)
       details: |
         La Matemática Aplicada es la disciplina que se propone el uso de los métodos generales y las técnicas específicas de las matemáticas, para la solución de problemas reales que surjan en cualquier campo de actividad humana.
@@ -60,7 +64,7 @@ experiences:
 
     - role: Cabin Leader
       time: Verano 2015
-      company: <a href="https://campstewart.com/" target="_blank" rel="nofollow">Camp Stewart for Boys, Hunt, Texas</a>
+      company: Camp Stewart for Boys, Hunt, Texas
       url: https://campstewart.com/
 
       details: |
