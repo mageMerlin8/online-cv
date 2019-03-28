@@ -30,9 +30,9 @@ sidebar:
       - idiom: Inglés
         level: Profesional
 
-    interests:
-      - item: Climbing
-        link:
+    # interests:
+    #   - item:
+    #     link:
 
 career-profile:
     title: Persona
@@ -51,9 +51,18 @@ education:
         La Matemática Aplicada es la disciplina que se propone el uso de los métodos generales y las técnicas específicas de las matemáticas, para la solución de problemas reales que surjan en cualquier campo de actividad humana.
 
 experiences:
+
+    - role: Desarollador de Aplicaciones
+      time: Verano 2017
+      company: Agrodesa Laguna, Coahuila
+      details: |
+        Diseño, desarrollo e implementación de software de control de personal.
+
     - role: Cabin Leader
       time: Verano 2015
-      company: Camp Stewart for Boys, Hunt, Texas
+      company: <a href="https://campstewart.com/" target="_blank" rel="nofollow">Camp Stewart for Boys, Hunt, Texas</a>
+      url: https://campstewart.com/
+
       details: |
     #
     # - role: Senior Software Engineer
@@ -130,7 +139,7 @@ experiences:
 #         authors: Edgar T. Irons
 #         conference: "Comm. ACM 4 (1961), 51–55"
 
-skills:
+skills2:
     title: Lenguajes de Programación 2
 
     toolset:
@@ -154,6 +163,8 @@ skills:
       - name: HTML5 & CSS
         level: 50%
 
+      - name: Microsoft Office
+        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

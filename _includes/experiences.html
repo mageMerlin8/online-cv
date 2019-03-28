@@ -18,8 +18,18 @@
         <h3 class="job-title">{{ experience.role }}</h3>
         <div class="time">{{ experience.time }}</div>
       </div><!--//upper-row-->
+      {% if experience.url %}
+        <div class="company">
+           <a href={{ experience.time }} target="_blank" rel="nofollow">{{ experience.company }}</a>
+         </div>
+      {% endif %}
 
-      <div class="company">{{ experience.company }}</div>
+      {% if experience.url == null %}
+        <div class="company">
+           {{ experience.company }}
+         </div>
+      {% endif %}
+
 
     </div><!--//meta-->
 
