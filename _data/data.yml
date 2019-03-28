@@ -143,12 +143,12 @@ experiences:
 #         authors: Edgar T. Irons
 #         conference: "Comm. ACM 4 (1961), 51–55"
 
-skills2:
-    title: Lenguajes de Programación 2
-
-    toolset:
-      - name: Python
-        level: 90%
+# skills2:
+#     title: Lenguajes de Programación 2
+#
+#     toolset:
+#       - name: Python
+#         level: 90%
 
 
 skills:
