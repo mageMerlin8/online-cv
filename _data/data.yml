@@ -39,6 +39,7 @@ sidebar:
       - item: Git, Github
         link:
       - item: Linux, Mac, PC
+      - item: Microsoft Office (Word, Excel, PowerPoint, Access)
 
 
 career-profile:
@@ -174,9 +175,6 @@ skills:
 
       - name: HTML5 & CSS
         level: 50%
-
-      - name: Microsoft Office
-        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
