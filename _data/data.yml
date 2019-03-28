@@ -35,6 +35,10 @@ sidebar:
         link:
       - item: Aplicaciones de recolección y análisis de datos
       - item: Modelado matemático
+    interests2:
+      - item: Git, Github
+        link:
+      - item: Linux, Mac, PC
 
 
 career-profile:
